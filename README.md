@@ -2,6 +2,8 @@
 
 This project involves a comprehensive exploration of economic indicators and their impact on GDP across 12 selected European countries. The goal is to provide valuable insights through statistical analysis, data visualization, and forecasting.
 
+![Insights into GDP Dynamics and Key Indicators](https://github.com/DagogoOrifama/European-Economic-Trends-Explorer/blob/2722cf73fb8ee5b9c4071c3f60e5202a0a49c8c7/dashboard_report.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Background Research and Literature Review](#background-research-and-literature-review)
