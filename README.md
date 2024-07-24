@@ -58,10 +58,6 @@ Conducted hypothesis tests to:
 
 ### Regression Analysis
 
-Implemented regression analysis to model the relationship between GDP and other indicators. Validated the assumptions of linearity, independence, normality, and homoscedasticity. Developed a regression equation:
-\[ \text{GDP} = 9.837 \times 10^{10} + 3.925 \times 10^4 \times \text{PopulationTotal} \]
-Extended to a multiple regression model including Net Migration.
-
 Performed regression analysis to model the relationship between GDP and other economic indicators. Ensured the regression model met the following assumptions:
 - **Linearity**: The relationship between the independent and dependent variables is linear.
 - **Independence**: The residuals (errors) are independent.
@@ -69,9 +65,11 @@ Performed regression analysis to model the relationship between GDP and other ec
 - **Homoscedasticity**: The residuals have constant variance.
 
 Developed the following regression equation for GDP:
+
 ```GDP = 9.837 * 10^10 + 3.925 * 10^4 * PopulationTotal```
 
 Extended the model to include multiple regression with Net Migration:
+
 ```GDP = 9.140 * 10^10 + 9.879 * 10^5 * NetMigration + 3.649 * 10^4 * PopulationTotal```
 
 
